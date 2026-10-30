@@ -1,5 +1,7 @@
-
-<h1 align="center">Hi 👋, I'm Thiru Manideep</h1>
+<p align="center">
+  <img src="samurai.png" width="85%" alt="Samurai Warrior"/>
+</p>
+<h1 align="center">Hi 👋, I'm Tirumanideep</h1>
 <h3 align="center">Information Technology Student | Full Stack Developer | AI Enthusiast</h3>
 
 <p align="center">
