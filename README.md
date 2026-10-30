@@ -79,16 +79,6 @@ A web application to report, search and recover lost belongings.
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ChinnaTirumanideep&show_icons=true&theme=midnight-purple&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinnaTirumanideep&layout=compact&theme=midnight-purple&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ChinnaTirumanideep&theme=midnight-purple&hide_border=true" />
-</p>
 
 ---
 
